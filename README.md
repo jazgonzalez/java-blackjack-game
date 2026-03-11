@@ -34,7 +34,7 @@ This project was developed and tested using the **Eclipse IDE**.
    * Choose `General > Existing Projects into Workspace`.
    * Select the root folder of this project (it contains the `.project` and `.classpath` files).
 3. **Run**:
-   * Locate `BlackJackGUI.java` or `Main.java` in the `src/finalProject/` directory.
+   * Locate `BlackJackGUI.java` in the `src/finalProject/` directory.
    * Right-click and select `Run As > Java Application`.
 
 ### Manual Execution (Terminal)
