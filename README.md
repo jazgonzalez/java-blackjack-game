@@ -5,6 +5,11 @@
 
 This project demonstrates advanced Object-Oriented Programming (OOP) concepts, event-driven programming, and custom GUI design using Java Swing and AWT.
 
+##  Tech Stack
+* **Language:** Java
+* **Library:** Swing / AWT (Graphics2D)
+* **Concepts:** Inheritance, Composition, Event-Driven Programming, Animation Loops
+* 
 ## Key Features
 
 * **Interactive User Interface**: Built with Java Swing, featuring custom gold-styled buttons and real-time display updates.
@@ -22,7 +27,7 @@ The application is structured into several core classes to maintain clean code a
 * **Player.java / Dealer.java**: Implements inheritance, where the Dealer inherits basic hand logic and extends it with automated rules.
 * **Card.java / Deck.java**: Manages individual card properties, image pathing, and multi-deck shuffling logic.
 * **Hand.java**: A composition class within Player responsible for score calculation and hand state management.
-
+  
 ## Setup for Eclipse Users
 
 This project was developed and tested using the **Eclipse IDE**.
